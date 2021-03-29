@@ -17,7 +17,7 @@ Upon application launch, users may use the navigation bar at the top right of th
 
 ![Github repository] (https://github.com/lbalbrecht/lba-code-refractor-homework)
 
-<img src=">.\assets\images\code-refractor-snapshot.png" alt = "horiseon landing page">
+<img src=".\assets\images\code-refractor-snapshot.png" alt = "horiseon landing page">
 
 ## Authors
 
