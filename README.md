@@ -1,4 +1,4 @@
-# lba-code-refractor-homework
+# lba-code-refractor
 
 ## User Story
 Horiseon, a marketing company, wanted their website to be optimized in accordance with accessibility standards, including alt text for their images and proper mobile responsiveness.
